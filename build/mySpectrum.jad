@@ -1,0 +1,17 @@
+MIDlet-Name: mySpectrum
+MIDlet-Version: 0.0
+MIDlet-Vendor: <unknown>
+MIDlet-Jar-URL: mySpectrum.jar
+MIDlet-Jar-Size: 4573
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: BlackBerry Bug Demo,,
+RIM-MIDlet-Flags-1: 0
+RIM-MIDlet-Position-1: 17
+Manifest-Version: 1.0
+RIM-COD-URL: mySpectrum.cod
+RIM-COD-Size: 1980
+RIM-COD-Creation-Time: 1287434847
+RIM-COD-Module-Name: mySpectrum
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-SHA1: 89 1f 00 48 9b f3 94 06 21 a1 a6 13 eb 21 44 2e 59 9c ed 99
